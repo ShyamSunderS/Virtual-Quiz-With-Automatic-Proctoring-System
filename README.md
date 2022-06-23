@@ -41,7 +41,7 @@ screenshot will be saved accordingly.
 
 ## Screenshots of Output
 
-### This web application majorly consists of three tabs. By the Screenshot, one can understand the use of each tab. 
+### This web application majorly consists of three tabs. With the help of Screenshots, one can understand the use of each tab. 
 
 #### 1: Exam Tab 
 Here, you have to provide your Id and Name and click on the start button to begin with the examination.
