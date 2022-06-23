@@ -1,7 +1,5 @@
 # Virtual-Quiz-With-Automatic-Proctoring-System
 
-# Virtual Quiz With Automatic Proctoring System
-
 This a is virtual quiz web app developed using streamlit, where
 proctoring also automatically takes place side by side. The main 
 feature to be mentioned about this project is that this is based
