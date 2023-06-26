@@ -47,6 +47,8 @@ screenshot will be saved accordingly.
 Here, you have to provide your Id and Name and click on the start button to begin with the examination.
 ###
 ![App Screenshot](https://github.com/ShyamSunderS/Virtual-Quiz-With-Automatic-Proctoring-System/blob/master/screenshots/1.jpeg?raw=true)
+![exam tab](https://github.com/ShyamSunderS/Virtual-Quiz-With-Automatic-Proctoring-System/assets/68478902/a6b45138-c380-47c7-b884-6cabeac71d8a)
+
 
 #### 2: Instructions Tab
 These are the set of instructions one has to know before giving the exam.
