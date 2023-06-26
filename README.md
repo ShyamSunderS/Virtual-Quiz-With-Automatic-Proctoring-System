@@ -63,9 +63,4 @@ As soon the exam is concluded, the result is instantly displayed on the statisti
 This video helps in explaining the working process of the web application.
 ###
 
-https://user-images.githubusercontent.com/68478902/175208735-8
-
 https://github.com/ShyamSunderS/Virtual-Quiz-With-Automatic-Proctoring-System/assets/68478902/4d2b0c4e-4ec4-4f58-9c47-cfd262d57678
-
-8431c73-6aed-495b-beee-e32f90deb6fd.mp4
-
